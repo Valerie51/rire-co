@@ -143,6 +143,18 @@ nav > ul > li:hover > a{
 }
 
 
+/* mentions légales */
+#mentions > center > a {
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+#mentions > center > a:hover {
+    text-decoration: underline;
+}
+
+
 /* bas de page */
 
 footer {
